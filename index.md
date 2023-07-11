@@ -17,3 +17,7 @@ I've added text into this file. Pretty obvious.
 ```
 $ git init
 ```
+
+
+- [x] start the github-course
+- [ ] finish the github-course
