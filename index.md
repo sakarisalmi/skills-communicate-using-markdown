@@ -11,3 +11,5 @@
 ###### smol
 
 I've added text into this file. Pretty obvious.
+
+![Image of a cool cat; The same cat from the example](https://octodex.github.com/images/yaktocat.png)
